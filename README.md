@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi, I'm Muhammadqodir 👋
+
+Frontend Developer from Uzbekistan
+
+## Skills
+- HTML
+- CSS
+- Responsive Design
+
+## Tools
+- Git
+- GitHub
+- Figma
+
+## My Projects
+- Coffee Shop Website
+- Headphones Landing Page
 
 <!--
 **muxaxolmatov0-hue/muxaxolmatov0-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
