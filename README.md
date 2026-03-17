@@ -15,6 +15,7 @@ Frontend Developer from Uzbekistan
 ## My Projects
 - Coffee Shop Website
 - Headphones Landing Page
+- Foodie – Healthy & Fresh Meals
 
 <!--
 **muxaxolmatov0-hue/muxaxolmatov0-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
