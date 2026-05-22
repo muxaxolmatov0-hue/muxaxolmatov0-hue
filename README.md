@@ -1,4 +1,4 @@
-# Hi, I'm Muhammadqodir 👋
+# HI, I'M MUHAMMADQODIR 👋
 
 Frontend Developer from Uzbekistan
 
