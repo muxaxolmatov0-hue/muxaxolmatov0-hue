@@ -1,4 +1,4 @@
-# HI, I'M MUHAMMADQODIR 👋
+# Hi, I'm Muhammadqodir 👋
 
 Frontend Developer from Uzbekistan
 
@@ -6,11 +6,12 @@ Frontend Developer from Uzbekistan
 - HTML
 - CSS
 - Responsive Design
+- javascript
 
 ## Tools
-- Git
 - GitHub
 - Figma
+- javascript
 
 ## My Projects
 - Coffee Shop Website
